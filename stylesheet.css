@@ -1,0 +1,156 @@
+div.done {
+	position: relative;
+	margin: 0;
+	padding: 190px 0px 0px 0px;
+	width: 100%;	
+}
+
+div.dtwo {
+	position: relative;
+	padding: 15px 0 0 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.dthree {
+	display: block;
+	position: relative;
+	height: 26px;
+	margin: 25px 0 0 0;
+	text-align: center;
+}
+
+#gs, #ifl {
+	display: inline;
+	float: middle;
+	padding: 1px 12px 1px 12px;
+	margin: 0px 8px 0px 8px;
+	height: 36px;
+	line-height: 27px;
+	min-width: 90px;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	text-align: center;
+	color: #757575;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+
+div.tnb {
+	position: absolute;
+	margin-left: 0
+	margin-right: 0
+	padding: 0 20px 0 0;
+	right: 0%;
+	top: 0%;
+	height: 30px;
+}
+
+ul {
+	left: 100%;
+}
+
+
+li {
+	display: inline;
+	float: left;
+	padding: 0 6px 0 6px;
+	vertical-align: middle;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+
+#sign_in {
+	color: #fff;
+	width: 65px;
+	height: 30px;
+	background-color: #4285f4;
+	border-radius: 3px;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	border: 1px solid #4285f4
+}
+#lnk {
+	text-decoration: none;
+	color: black;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+}
+
+#lnk:hover {
+	text-decoration: underline;
+}
+
+#apps {
+	height: 25px;
+	width: 20px;
+}
+
+img.glogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+input.sbar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+	height: 26px;
+}
+
+div.dfour {
+	position: relative;
+	display:inline;
+	text-align: center;
+	margin: 10px 0 10px 0;
+	width: 400px;
+}
+
+p.p1 {
+	display: block;
+	float: middle;
+	font-size: 14px;
+	margin: 30px 0 0 0;
+	text-align: center;
+	font-family: arial, sans-serif;
+	
+}
+
+.frn {
+	text-decoration: none;
+}
+
+div.dfive {
+	display: block;
+	position: absolute;
+	height: 40px;
+	left: 0;
+	right: 0;
+	background-color: #f2f2f2;
+	bottom: 0;
+	border-top: 1px solid #e4e4e4; 
+	line-height: 40px;
+}
+
+#foot {
+	color: #666;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+	font-size: small;
+	padding: 0 10px 0 10px;
+	text-align: center;
+}
+
+#foot:hover, #foot2:hover {
+	text-decoration: underline;
+}
+
+
+
